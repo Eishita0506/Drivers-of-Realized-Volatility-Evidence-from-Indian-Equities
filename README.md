@@ -1,9 +1,9 @@
 # Drivers of Realized Volatility Forecasting in an Emerging Market: Evidence from Indian Equities
 
-Eishita Bordoloi1 
-Indian Institute of Technology, (Indian School of Mines), Dhanbad
-Jharkhand, India
-Email: eishita2005@gmail.com
+- Eishita Bordoloi1 
+- Indian Institute of Technology, (Indian School of Mines), Dhanbad
+- Jharkhand, India
+- Email: eishita2005@gmail.com
 
 # ABSTRACT
 We examine the predictability, economic value, and risk-measurement performance of realized volatility forecasts for Indian equities using five-minute data on nine NSE indices spanning capitalization segments and five sectors over 2015–2026. India provides a distinctive setting for this question: the NSE’s 17-hour-45-minute non-trading interval encompasses the U.S. trading session, while overnight movements account for 24–44 percent of daily return variance and realized variance is highly skewed. We estimate thirty-five forecasting specifications per index and evaluate them out of sample using QLIKE, with formal inference based on Clark–West tests, false-discovery-rate control, and the Model Confidence Set.
