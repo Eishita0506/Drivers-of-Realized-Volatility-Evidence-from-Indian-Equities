@@ -1,4 +1,5 @@
-Drivers of Realized Volatility Forecasting in an Emerging Market: Evidence from Indian Equities
+# Drivers of Realized Volatility Forecasting in an Emerging Market: Evidence from Indian Equities
+
 Eishita Bordoloi1 
 Indian Institute of Technology, (Indian School of Mines), Dhanbad
 Jharkhand, India
